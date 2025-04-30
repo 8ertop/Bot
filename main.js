@@ -329,7 +329,7 @@ const fs = require('fs');
 const path = require('path');
 const app = express();
 
-const botURL = 'https://extrovertedgloomymalware-1.onrender.com';
+const botURL = 'https://bot-cww1.onrender.com';
 
 function pingUrl(url) {
   const lib = url.startsWith('https') ? https : http;
